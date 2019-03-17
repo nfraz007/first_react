@@ -1,5 +1,7 @@
 This is my first react js project for learning purpose. I have made a todo app with add, delete and mark as completed functionality.
 
+[Live demo](https://nfraz007.github.io/first_react/)
+
 ## Available Scripts
 
 In the project directory, you can run:
